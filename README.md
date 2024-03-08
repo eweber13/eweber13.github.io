@@ -71,6 +71,7 @@
             <li>Badlands, South Dakota</li>
             <li>Marco Island, Florida</li>
         </ol>
+    <img src=”IMG_4242.HEIC”>
     </section>
     <section>
         <h2>Friends</h2>
