@@ -100,13 +100,6 @@
             </li>
         </ul>
     </section>
-    <section>
-        <h2>Styling Example</h2>
-        <p>This is a paragraph with <strong>bold</strong> and <em>italic</em> text. Also, check out the
-            <span style="font-size: 20px; color: blue;">styled</span> text.</p>
-    </section>
-    <section>
-        <h2>
 </div>
 <img class="rectangle-7-eNx" src="/api/prod-us-east-2-first-cluster/projects/34rqrUW..." id="11:220"/>
 <img class="rectangle-8-As6" src="/api/prod-us-east-2-first-cluster/projects/34rqrUW..." id="11:221"/>
