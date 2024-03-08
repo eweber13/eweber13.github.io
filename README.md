@@ -62,7 +62,7 @@
         <p>
             I have traveled to many places, but my favorite destinations throughout the years have been:
         </p>
-        <ul>
+        <ol>
             <li>Paris, France</li>
             <li>Cabo San Lucas, Mexico</li>
             <li>London, England</li>
@@ -70,7 +70,7 @@
             <li>Whales</li>
             <li>Badlands, South Dakota</li>
             <li>Marco Island, Florida</li>
-        </ul>
+        </ol>
     </section>
     <section>
         <h2>Friends</h2>
