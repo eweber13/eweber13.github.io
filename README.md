@@ -38,7 +38,7 @@
     <h2>Hobbies</h2>
         
         <ul>
-            <a href="https://github.com/eweber13/eweber23.github.io/hobbies" target="_blank">Go to Hobbies</a>
+            <a href="https://github.com/eweber13/eweber23.github.io/hobbies" >Go to Hobbies</a>
 
         </ul>
     </section>
