@@ -5,20 +5,22 @@
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Evan's Hobbies</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-    </head>
-    <body>
-
-        <img alt="myHobby" src="jetskiHobby.jpeg" height="50" width="50"/>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-        
-        <script src="" async defer></script>
-    </body>
+        <h3>Sports</h3>
+        <p>
+            In high school, I was passionate about sports and tried my hand at various activities, including basketball,
+            soccer, football, pole vaulting, diving, volleyball, and golf.
+        </p>
+        <h3>Water Activities</h3>
+        <p>
+            Whenever summer comes around, it is always the best time of the year for me because my family always heads
+            to the lake to jet ski and boat. There is a place in Marco Island, Florida, that has a jet ski tour where
+            they take you through the Everglades.
+            <br>
+            If you are interested, you can check out the jet ski tour rental shop <a href="https://www.evergladesjetskitours.com/"
+                target="_blank" rel="noopener">here</a>.
+        </p>
+        <h3>Poker</h3>
+        <p>
+            Over the recent months, my friends and I have been in a huge poker phase, playing weekly.
+        </p>
 </html>
