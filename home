@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Evan's Website</title>
+</head>
+
+<body>
+
+    <header>
+        <h1><b>Welcome to Evan's Website</b></h1>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="friends.html">Friends</a></li>
+                <li><a href="hobbies.html">Hobbies</a></li>
+                <li><a href="travel.html">Travel</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a freshman at the University of Wisconsin-Madison, majoring in pre-business with plans to double major
+            in finance and real estate.
+            <br>
+            Born and raised in Wisconsin, my family of four includes my father Scott, mother Jan, and older brother
+            Brett.
+            We've lived in the same house our entire lives and enjoy participating in activities together.
+            <br>
+            While we are big Wisconsin sports fans, supporting the Milwaukee Bucks and Green Bay Packers, I also
+            cherish exploring new things and embracing the unknown factors that life presents.
+            <br>
+            Despite our similarities, our unique differences contribute to shaping who I am today.
+        </p>
+    </section>
+
+    <section>
+        <h2>Hobbies: Sports</h2>
+        <p>
+            In high school, I was passionate about sports and tried my hand at various activities, including basketball,
+            soccer, football, pole vaulting, diving, volleyball, and golf.
+        </p>
+    </section>
+
+    <section>
+        <h2>Friends</h2>
+        <p>
+            I have friends back home, and since being in Madison, I've met new people and formed close connections. My
+            friends back home, a group of 20 of us, have been together since freshman year of high school. We share
+            incredible memories and have experienced each other's best and worst days.
+            <br>
+            In Madison, I've connected with around 15 guys who share the same interests and activities. My friends are
+            vital to me; they are the ones I rely on and can talk to about anything for hours.
+        </p>
+
+        <h3>My Best Friends</h3>
+        <ul>
+            <li>
+                <strong>Teddy:</strong> Friends for 8 years; we know everything about one another and can talk for
+                hours.
+            </li>
+            <li>
+                <strong>Philip:</strong> Friends for 6 years; we participate in the same hobbies and share the same
+                interests.
+            </li>
+            <li>
+                <strong>Maddie:</strong> Friends for many years; we do everything together, try new things, and always
+                have each other's backs.
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Styling Example</h2>
+        <p>This is a paragraph with <strong>bold</strong> and <em>italic</em> text. Also, check out the
+            <span style="font-size: 20px; color: blue;">styled</span> text.</p>
+    </section>
+
+    <section>
+        <h2>Lists Example</h2>
+        <ul>
+            <li>Unordered List Item 1</li>
+            <li>Unordered List Item 2</li>
+            <li>Unordered List Item 3</li>
+        </ul>
+        <ol>
+            <li>Ordered List Item 1</li>
+            <li>Ordered List Item 2</li>
+            <li>Ordered List Item 3</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Description List Example</h2>
+        <dl>
+            <dt>Term 1</dt>
+            <dd>Description 1</dd>
+            <dt>Term 2</dt>
+            <dd>Description 2</dd>
+            <dt>Term 3</dt>
+            <dd>Description 3</dd>
+        </dl>
+    </section>
+
+    <section>
+        <h2>Images Example</h2>
+        <img src="image1.jpg" alt="Image 1">
+        <img src="image2.jpg" alt="Image 2">
+        <img src="image3.jpg" alt="Image 3">
+    </section>
+
+    <section>
+        <h2>External Link Example</h2>
+        <p>Check out my favorite website: <a href="https://www.example.com" target="_blank" rel="noopener">Example.com</a>.
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 My Personal Website</p>
+    </footer>
+
+</body>
+
+</html>
