@@ -36,10 +36,8 @@
     </section>
     <section>
     <h2>Hobbies</h2>
-        
         <ul>
             <li><a href="hobbies.html">Go to Hobbies</a></li>
-
         </ul>
     </section>
     <section>
