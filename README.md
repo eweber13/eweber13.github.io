@@ -35,9 +35,14 @@
         </p>
     </section>
     <section>
-        <h2>Hobbies</h2>
-        <li><a href="hobbies.html">Hobbies</a></li>
-        
+    <h2>Hobbies</h2>
+        <!-- Content of the Hobbies section -->
+
+        <!-- Navigation Link to Hobbies Page -->
+        <ul>
+            <li><a href="hobbies.html">Hobbies</a></li>
+        </ul>
+    </section>
     <section>
         <h2>Travel</h2>
         <p>
