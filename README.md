@@ -36,25 +36,8 @@
     </section>
     <section>
         <h2>Hobbies</h2>
-        <h3>Sports</h3>
-        <p>
-            In high school, I was passionate about sports and tried my hand at various activities, including basketball,
-            soccer, football, pole vaulting, diving, volleyball, and golf.
-        </p>
-        <h3>Water Activities</h3>
-        <p>
-            Whenever summer comes around, it is always the best time of the year for me because my family always heads
-            to the lake to jet ski and boat. There is a place in Marco Island, Florida, that has a jet ski tour where
-            they take you through the Everglades.
-            <br>
-            If you are interested, you can check out the jet ski tour rental shop <a href="https://www.evergladesjetskitours.com/"
-                target="_blank" rel="noopener">here</a>.
-        </p>
-        <h3>Poker</h3>
-        <p>
-            Over the recent months, my friends and I have been in a huge poker phase, playing weekly.
-        </p>
-    </section>
+        <li><a href="hobbies.html">Hobbies</a></li>
+        
     <section>
         <h2>Travel</h2>
         <p>
