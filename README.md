@@ -50,8 +50,6 @@
             If you are interested, you can check out the jet ski tour rental shop <a href="https://www.evergladesjetskitours.com/"
                 target="_blank" rel="noopener">here</a>.
         </p>
-        <img alt="myHobby" src="jetskiHobby.jpeg" height="50" width="50"/>
-        </p>
         <h3>Poker</h3>
         <p>
             Over the recent months, my friends and I have been in a huge poker phase, playing weekly.
@@ -71,7 +69,6 @@
             <li>Badlands, South Dakota</li>
             <li>Marco Island, Florida</li>
         </ol>
-    <img src=”IMG_4242.HEIC”>
     </section>
     <section>
         <h2>Friends</h2>
@@ -101,8 +98,3 @@
             </li>
         </ul>
     </section>
-</div>
-<img class="rectangle-7-eNx" src="/api/prod-us-east-2-first-cluster/projects/34rqrUW..." id="11:220"/>
-<img class="rectangle-8-As6" src="/api/prod-us-east-2-first-cluster/projects/34rqrUW..." id="11:221"/>
-</div>
-</div>
