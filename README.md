@@ -13,9 +13,9 @@
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="hobbies.html">Favorite Movie</a></li>
-                <li><a href="travel.html">Favorite Cuisine</a></li>
-                <li><a href="friends.html">Favorite Book</a></li>
+                <li><a href="hobbies.html">Hobbies</a></li>
+                <li><a href="travel.html">Travel</a></li>
+                <li><a href="friends.html">Friends</a></li>
             </ul>
         </nav>
     </header>
