@@ -52,6 +52,8 @@
             If you are interested, you can check out the jet ski tour rental shop <a href="https://www.evergladesjetskitours.com/"
                 target="_blank" rel="noopener">here</a>.
         </p>
+        <img alt="myHobby" src="jetskiHobby.jpeg" height="50" width="50"/>
+        </p>
         <h3>Poker</h3>
         <p>
             Over the recent months, my friends and I have been in a huge poker phase, playing weekly.
