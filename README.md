@@ -12,11 +12,13 @@
         <h1>Welcome to My Personal Website</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="hobbies.html">Hobbies</a></li>
-                <li><a href="travel.html">Travel</a></li>
-                <li><a href="friends.html">Friends</a></li>
-            </ul>
+        <!-- Hobbies Link -->
+        <li><a href="watersport.JPG" target="_blank"><img src="watersport.JPG" alt="Watersport"></a> Hobbies</li>
+        <!-- Travel Link -->
+        <li><a href="travel.JPG" target="_blank"><img src="travel.JPG" alt="Travel"></a> Travel</li>
+        <!-- Friends Link -->
+        <li><a href="friends.JPG" target="_blank"><img src="friends.JPG" alt="Friends"></a> Friends</li>
+    </ul>
         </nav>
     </header>
     <section>
